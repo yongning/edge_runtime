@@ -1,6 +1,6 @@
 #include "thread_impl.h"
 #include "filesystem_impl.h"
-#include "platform_Impl.h"
+#include "platform_impl.h"
 
 namespace runtime {
 PlatformImpl::PlatformImpl()
