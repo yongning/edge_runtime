@@ -1,9 +1,9 @@
 #pragma once
 
-#include "runtime/filesystem.h"
-#include "runtime/thread.h"
+#include "filesystem.h"
+#include "thread.h"
 
-namespace runtime {
+namespace Runtime {
 
 class PlatformImpl {
 public:
